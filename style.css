@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+ margin:auto;
+ width:20%;
+ height:400px;
+ border: 1px solid black;
+ padding:20px;
+ text-align: center;
+
+}
+#convert{
+    background-color: #bba768;
+}
+#convert:hover{
+    background-color: #bcc768;
+}
+h1{
+    font-family: sans-serif;
+    color:#70b2e5;
+}
+input{
+    display:block;
+    padding:10px;
+    margin-top: 10px;
+    font-size: 2em;
+    color:#f4a55a;
+    font-family: cursive sans-serif;
+
+}
+button{
+    padding:10px;
+    font-size: 1.2em;
+    color: #545454;
+}
